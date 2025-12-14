@@ -1,0 +1,8 @@
+{
+  "title": "Count Primes",
+  "difficulty": "Medium",
+  "patterns": ["prime-numbers", "sieve-of-eratosthenes"],
+  "leetcodeUrl": "https://leetcode.com/problems/count-primes/",
+  "companies": ["Amazon", "Microsoft", "Google"],
+  "topics": ["Math", "Array", "Hash Table"]
+}

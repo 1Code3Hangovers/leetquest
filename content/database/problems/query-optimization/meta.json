@@ -1,0 +1,7 @@
+{
+  "title": "Query Optimization",
+  "difficulty": "Medium",
+  "patterns": ["indexing", "query-planning"],
+  "companies": ["Google", "Amazon", "Netflix"],
+  "topics": ["SQL", "Performance", "Database"]
+}

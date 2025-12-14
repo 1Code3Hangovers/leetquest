@@ -1,0 +1,8 @@
+{
+  "title": "Two Sum",
+  "difficulty": "Easy",
+  "patterns": ["two-pointers", "hash-table"],
+  "leetcodeUrl": "https://leetcode.com/problems/two-sum/",
+  "companies": ["Amazon", "Google", "Facebook", "Microsoft"],
+  "topics": ["Array", "Hash Table"]
+}
