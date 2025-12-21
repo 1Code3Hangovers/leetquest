@@ -1,0 +1,7 @@
+{
+  "title": "Design URL Shortener",
+  "difficulty": "Medium",
+  "patterns": ["caching", "load-balancing", "database-design"],
+  "companies": ["Google", "Amazon", "Microsoft", "Facebook"],
+  "topics": ["System Design", "Distributed Systems", "Scalability"]
+}
