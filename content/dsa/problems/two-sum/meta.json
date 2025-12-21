@@ -1,6 +1,6 @@
 {
   "title": "Two Sum",
-  "difficulty": "Easy",
+  "difficulty": "Hard",
   "patterns": ["two-pointers", "hash-table"],
   "leetcodeUrl": "https://leetcode.com/problems/two-sum/",
   "companies": ["Amazon", "Google", "Facebook", "Microsoft"],
